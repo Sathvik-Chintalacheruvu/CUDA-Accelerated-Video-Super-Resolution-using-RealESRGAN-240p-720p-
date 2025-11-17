@@ -126,7 +126,7 @@ Cleaner facial features and motion stability
 
 9. Author
 
-Sai Surya Sashank Dronamraju
+Sathvik Chintalacheruvu
 M.S. Computer Engineering
 New Jersey Institute of Technology
 DSP High-Performance Computing Laboratory
